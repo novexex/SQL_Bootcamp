@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/materials/model.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex05/day00_ex05.sql" dialect="SQL92" />
+    <file url="file://$PROJECT_DIR$/src/ex06/day00_ex06.sql" dialect="SQL92" />
+  </component>
+</project>
